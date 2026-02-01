@@ -1,0 +1,5 @@
+{
+  "name": "ChronoFlow AI",
+  "description": "A sci-fi styled dynamic sequence diagram generator using Gemini AI and Three.js.",
+  "requestFramePermissions": []
+}

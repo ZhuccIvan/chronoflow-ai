@@ -1,0 +1,50 @@
+{
+  "app": {
+    "title": "CHRONOFLOW"
+  },
+  "header": {
+    "apiKeyPlaceholder": "Enter Gemini API Key",
+    "save": "Save",
+    "clearAll": "Clear all nodes and connections. This action cannot be undone."
+  },
+  "tabs": {
+    "upload": "Upload Image",
+    "text": "Natural Language",
+    "manual": "Manual Edit"
+  },
+  "upload": {
+    "title": "Click or drag to upload image",
+    "supportedFormats": "Supports PNG, JPG formats",
+    "recognize": "Recognize & Generate"
+  },
+  "text": {
+    "placeholder": "Describe your flow, e.g., User login, system verifies password, returns token...",
+    "examples": "Example Prompts",
+    "generate": "Generate Sequence Diagram"
+  },
+  "manual": {
+    "nodes": "Nodes",
+    "newNode": "New Node",
+    "connections": "Connections",
+    "newConnection": "Action",
+    "save": "Save Changes"
+  },
+  "mode": {
+    "switch": "Mode Switch",
+    "static": "Static Mode",
+    "dynamic": "Dynamic Mode"
+  },
+  "dynamic": {
+    "currentStep": "Current step",
+    "next": "Next",
+    "reset": "Reset",
+    "hint": "Click node to show step by step"
+  },
+  "export": {
+    "title": "Export",
+    "staticImage": "Export Static Image",
+    "animationSequence": "Export Animation Sequence",
+    "progress": "Export Progress",
+    "failed": "Failed to export animation sequence, please try again."
+  }
+}

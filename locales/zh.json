@@ -1,0 +1,50 @@
+{
+  "app": {
+    "title": "动态时序图"
+  },
+  "header": {
+    "apiKeyPlaceholder": "请输入 Gemini API Key",
+    "save": "保存",
+    "clearAll": "确定要清空所有节点和连接吗？此操作不可撤销。"
+  },
+  "tabs": {
+    "upload": "上传图片",
+    "text": "自然语言",
+    "manual": "手动编辑"
+  },
+  "upload": {
+    "title": "点击或拖拽上传图片",
+    "supportedFormats": "支持 PNG、JPG 格式",
+    "recognize": "识别并生成"
+  },
+  "text": {
+    "placeholder": "描述你的流程，例如：用户登录，系统验证密码，返回 token...",
+    "examples": "示例提示",
+    "generate": "生成时序图"
+  },
+  "manual": {
+    "nodes": "节点",
+    "newNode": "新节点",
+    "connections": "连接关系",
+    "newConnection": "动作",
+    "save": "保存修改"
+  },
+  "mode": {
+    "switch": "模式切换",
+    "static": "静态模式",
+    "dynamic": "动态模式"
+  },
+  "dynamic": {
+    "currentStep": "当前步骤",
+    "next": "下一步",
+    "reset": "重置",
+    "hint": "点击节点逐步展示流程"
+  },
+  "export": {
+    "title": "导出",
+    "staticImage": "导出静态图",
+    "animationSequence": "导出动画序列",
+    "progress": "导出进度",
+    "failed": "导出动画序列失败，请重试。"
+  }
+}
